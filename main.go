@@ -1,4 +1,4 @@
-package main
+package foo
 
 // Foo prints foo
 func Foo() string {
