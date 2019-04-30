@@ -2,5 +2,5 @@ package main
 
 // Foo prints foo
 func Foo() string {
-	return "v1"
+	return "v2"
 }
